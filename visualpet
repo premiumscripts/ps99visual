@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/egorpomidor123/premium/main/6fbd16b53cbc9fbe5fb7c202.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/premiumscripts/ps99visual/main/visualpet", true))()
